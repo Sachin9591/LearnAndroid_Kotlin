@@ -2,4 +2,7 @@
     <string name="app_name">MsgShareApp</string>
 
     <string name="hello_world">Hello World!</string>
+    <string name="enterMessage">Enter your message</string>
+    <string name="sendDataNextActivity">Send Data to Next Activity</string>
+    <string name="show_toast">Show Toast</string>
 </resources>
